@@ -72,4 +72,4 @@ I enjoy building responsive and interactive web applications while continuously 
 
 ---
 
-⭐ Thank you for visiting my project! Feedback and suggestions are always welcome.
+ Thank you for visiting my project! Feedback and suggestions are always welcome.
